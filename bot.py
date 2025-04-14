@@ -9,7 +9,7 @@ from datetime import datetime
 user_last_active = {}
 
 # Your Bot Token from BotFather
-BOT_TOKEN = "your_bot_token_here"
+BOT_TOKEN = "8125058608:AAHFjGxSsTO0QoESqC-MkH_1WKSIh7Ed7h4"
 
 # /start command to greet users
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
